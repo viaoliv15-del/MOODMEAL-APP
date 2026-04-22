@@ -1,0 +1,26 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-serif: "Playfair Display", serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-brand-primary: #E91E63;
+  --color-brand-secondary: #000000;
+  --color-brand-accent: #FF4081;
+  --color-brand-warm: #FCE4EC;
+}
+
+@layer base {
+  body {
+    @apply font-sans antialiased bg-white text-slate-900;
+  }
+}
+
+.glass-morphism {
+  @apply backdrop-blur-md bg-white/70 border border-white/20;
+}
+
+.hero-overlay {
+  background: linear-gradient(to bottom, rgba(0,0,0,0.3) 0%, rgba(0,0,0,0.7) 100%);
+}
