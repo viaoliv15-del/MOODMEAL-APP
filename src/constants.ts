@@ -86,7 +86,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Santai',
     food: 'Gnocchi Sorrentina',
     description: 'Gnocchi kentang lembut dengan saus tomat segar, mozzarella meleleh, dan kemangi yang menenangkan jiwa.',
-    image: 'https://images.unsplash.com/photo-1551183053-bf91a1d81141?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1598515214211-89d3c73ae83b?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Santai',
@@ -124,7 +124,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Stres',
     food: 'Salad Bayam & Alpukat',
     description: 'Bayam segar dan alpukat lembut yang kaya akan nutrisi pereda stres dan lezat untuk dikunyah.',
-    image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1612450841264-51ece82126e0?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Stres',
@@ -148,7 +148,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Stres',
     food: 'Southern Fried Chicken & Waffles',
     description: 'Perpaduan manis dan gurih ala Amerika Selatan untuk mengalihkan pikiran dari tekanan pekerjaan.',
-    image: 'https://images.unsplash.com/photo-1525351484163-7529414344d8?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1569058242252-623df46b5025?auto=format&fit=crop&q=80&w=800'
   },
 
   // BAHAGIA (HAPPY)
@@ -174,7 +174,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Bahagia',
     food: 'Strawberry Cheesecake Parfait',
     description: 'Lapisan lembut krim keju dengan remahan biskuit dan buah stroberi segar yang sangat manis.',
-    image: 'https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1593172813137-ec5c0d5885c3?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Bahagia',
@@ -186,7 +186,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Bahagia',
     food: 'Portuguese Pastel de Nata',
     description: 'Tart telur krispi dengan karamelisasi di atasnya, kebahagiaan kecil dalam setiap gigitan.',
-    image: 'https://images.unsplash.com/photo-1621319081732-c675f6758312?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1618237937965-0bc49877663a?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Bahagia',
@@ -242,13 +242,13 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Lelah',
     food: 'Indonesian Sop Buntut',
     description: 'Sup ekor sapi yang kaya kolagen dan mineral, memberikan kekuatan ekstra setelah hari yang panjang.',
-    image: 'https://images.unsplash.com/photo-1547592166-23ac45744acd?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1604152135912-04a022e23696?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Lelah',
     food: 'Hungarian Beef Goulash',
     description: 'Rebusan daging kental dengan paprika Budapest untuk memanaskan tubuh dan memulihkan vitalitas.',
-    image: 'https://images.unsplash.com/photo-1534939561126-755ecf1b8f9c?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1534422298391-e4f8c170db0f?auto=format&fit=crop&q=80&w=800'
   },
 
   // PETUALANG (ADVENTUROUS)
@@ -268,7 +268,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Petualang',
     food: 'Exotic Dragon Fruit Bowl',
     description: 'Buah naga merah yang eksotis dipadukan dengan granola, biji labu, dan potongan buah tropis langka.',
-    image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1590080875515-849ee9bc36c0?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Petualang',
@@ -298,7 +298,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Petualang',
     food: 'Russian Beef Stroganoff',
     description: 'Irisan daging sapi dalam saus krim asam yang mewah di atas mie telur, cita rasa klasik dari Eurasia.',
-    image: 'https://images.unsplash.com/photo-1534939561126-755ecf1b8f9c?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1534270804882-6b5048b1c1fc?auto=format&fit=crop&q=80&w=800'
   }
 ];
 
