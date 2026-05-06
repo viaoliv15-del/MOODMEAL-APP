@@ -70,18 +70,18 @@ export function Home() {
           </div>
 
           <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-6 gap-4 mb-16">
-            {MOOD_RECOMMENDATIONS.map((r) => (
+            {Array.from(new Set(MOOD_RECOMMENDATIONS.map(r => r.mood))).map((mood) => (
               <button
-                key={r.mood}
-                onClick={() => setSelectedMood(r.mood)}
+                key={mood}
+                onClick={() => setSelectedMood(mood)}
                 className={cn(
                   "p-6 rounded-2xl border-2 transition-all duration-300 flex flex-col items-center gap-3",
-                  selectedMood === r.mood 
+                  selectedMood === mood 
                     ? "bg-brand-primary border-brand-primary text-white shadow-lg scale-105" 
                     : "bg-white border-slate-100 text-slate-600 hover:border-brand-primary/30 hover:bg-brand-primary/5"
                 )}
               >
-                <span className="font-bold tracking-wide">{r.mood}</span>
+                <span className="font-bold tracking-wide">{mood}</span>
               </button>
             ))}
           </div>
