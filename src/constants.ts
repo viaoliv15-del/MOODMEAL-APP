@@ -24,7 +24,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Bersemangat',
     food: 'Ayam Goreng Korea Pedas Mandu',
     description: 'Ayam krispi dengan saus gochujang yang membakar semangat, disajikan dengan mandu sayuran.',
-    image: 'https://images.unsplash.com/photo-1623244422854-ea3888ad8139?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1626074353765-517a681e40be?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Bersemangat',
@@ -74,13 +74,13 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Santai',
     food: 'Thai Mango Sticky Rice',
     description: 'Ketan manis yang hangat disajikan dengan mangga matang yang sangat manis dan saus santan gurih.',
-    image: 'https://images.unsplash.com/photo-1621319081732-c675f6758312?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1601050633647-81a35d37c35a?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Santai',
     food: 'French Ratatouille',
     description: 'Rebusan sayuran Provence yang lembut-lembut, penuh dengan aroma herbal pedesaan Prancis yang damai.',
-    image: 'https://images.unsplash.com/photo-1572453800999-e8d2d12ba74b?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1615485499267-be388b139fcb?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Santai',
@@ -92,7 +92,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Santai',
     food: 'Greek Moussaka',
     description: 'Lapisan terong, daging cincang, dan saus béchamel panggang yang memberikan kehangatan Mediterania.',
-    image: 'https://images.unsplash.com/photo-1544144426-ca66f406606f?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1599321955726-e048429384bb?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Santai',
@@ -124,7 +124,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Stres',
     food: 'Salad Bayam & Alpukat',
     description: 'Bayam segar dan alpukat lembut yang kaya akan nutrisi pereda stres dan lezat untuk dikunyah.',
-    image: 'https://images.unsplash.com/photo-1612450841264-51ece82126e0?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Stres',
@@ -136,13 +136,13 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Stres',
     food: 'Classic Fish and Chips',
     description: 'Ikan krispi dan kentang goreng renyah gaya Inggris untuk kenyamanan maksimal di saat-saat sulit.',
-    image: 'https://images.unsplash.com/photo-1579208575657-c595a05383b7?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1524338198850-8a2ff63aaceb?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Stres',
     food: 'Indian Butter Chicken',
     description: 'Ayam dalam saus tomat krim yang kaya rempah, memberikan pelukan hangat dari dalam tubuh.',
-    image: 'https://images.unsplash.com/photo-1603894584214-41d167c6999a?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1588166524941-3bf61a9c41db?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Stres',
@@ -180,13 +180,13 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Bahagia',
     food: 'Spanish Paella Valenciana',
     description: 'Nasi kuning dengan seafood melimpah dan kunyit, membawa suasana pesta pantai Spanyol ke meja Anda.',
-    image: 'https://images.unsplash.com/photo-1515443961218-1523678885b8?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1534080564583-6be75777b70a?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Bahagia',
     food: 'Portuguese Pastel de Nata',
     description: 'Tart telur krispi dengan karamelisasi di atasnya, kebahagiaan kecil dalam setiap gigitan.',
-    image: 'https://images.unsplash.com/photo-1618237937965-0bc49877663a?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1587314168485-3236d6710814?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Bahagia',
@@ -218,7 +218,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Lelah',
     food: 'Steak Daging Sapi Protein Tinggi',
     description: 'Daging sapi pilihan yang kaya akan zat besi untuk mengatasi rasa lelah dan mengembalikan vitalitas tubuh.',
-    image: 'https://images.unsplash.com/photo-1546241072-48010ad28c2c?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1600891964599-f61ba0e24092?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Lelah',
@@ -236,7 +236,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Lelah',
     food: 'Chinese Dim Sum Platter',
     description: 'Berbagai macam cemilan kukus yang ringan namun memberikan energi bertahap untuk tubuh.',
-    image: 'https://images.unsplash.com/photo-1563245339-23f3fc3c63c2?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1496116218417-1a781b1c416c?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Lelah',
@@ -248,7 +248,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Lelah',
     food: 'Hungarian Beef Goulash',
     description: 'Rebusan daging kental dengan paprika Budapest untuk memanaskan tubuh dan memulihkan vitalitas.',
-    image: 'https://images.unsplash.com/photo-1534422298391-e4f8c170db0f?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1534939561126-755ecf1b8f9c?auto=format&fit=crop&q=80&w=800'
   },
 
   // PETUALANG (ADVENTUROUS)
@@ -256,7 +256,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Petualang',
     food: 'Moroccan Lamb Tagine',
     description: 'Eksplorasi rasa dengan daging domba empuk, aprikot, buncis, dan campuran rempah-rempah Afrika Utara.',
-    image: 'https://images.unsplash.com/photo-1541518763669-279f3cfc623a?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1541742425281-c1d3fc8aa964?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Petualang',
@@ -268,7 +268,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Petualang',
     food: 'Exotic Dragon Fruit Bowl',
     description: 'Buah naga merah yang eksotis dipadukan dengan granola, biji labu, dan potongan buah tropis langka.',
-    image: 'https://images.unsplash.com/photo-1590080875515-849ee9bc36c0?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1555939594-58d7cb561ad1?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Petualang',
@@ -280,13 +280,13 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Petualang',
     food: 'Korean Bibimbap',
     description: 'Nasi campur warna-warni dalam mangkuk batu panas, petualangan tekstur dan rasa di setiap adukan.',
-    image: 'https://images.unsplash.com/photo-1541728472741-03e45a58cf88?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1553163147-622ab57be1c7?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Petualang',
     food: 'Lebanese Mezze Platter',
     description: 'Perjalanan rasa Timur Tengah dengan hummus, falafel, tabbouleh, dan roti pita hangat.',
-    image: 'https://images.unsplash.com/photo-1541014741259-df529411bc0a?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1544124499-58ec407ff243?auto=format&fit=crop&q=80&w=800'
   },
   {
     mood: 'Petualang',
@@ -298,7 +298,7 @@ export const MOOD_RECOMMENDATIONS: MoodRecommendation[] = [
     mood: 'Petualang',
     food: 'Russian Beef Stroganoff',
     description: 'Irisan daging sapi dalam saus krim asam yang mewah di atas mie telur, cita rasa klasik dari Eurasia.',
-    image: 'https://images.unsplash.com/photo-1534270804882-6b5048b1c1fc?auto=format&fit=crop&q=80&w=800'
+    image: 'https://images.unsplash.com/photo-1614748437500-29c8789524bb?auto=format&fit=crop&q=80&w=800'
   }
 ];
 
