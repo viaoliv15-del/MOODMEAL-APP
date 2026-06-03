@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link, useLocation } from 'react-router-dom';
 import { motion, AnimatePresence } from 'motion/react';
-import { Menu, X, UtensilsCrossed } from 'lucide-react';
+import { Menu, X, Baby } from 'lucide-react';
 import { cn } from '../../lib/utils';
 
 interface NavbarProps {}
@@ -20,10 +20,13 @@ export function Navbar() {
   return (
     <nav className="fixed w-full z-50 transition-all duration-300 glass-morphism py-4 px-6 md:px-12 flex items-center justify-between">
       <Link to="/" className="flex items-center gap-2 group">
-        <div className="bg-brand-primary p-2 rounded-lg group-hover:rotate-12 transition-transform">
-          <UtensilsCrossed className="text-white w-6 h-6" />
+        <div className="bg-brand-primary p-2 rounded-xl group-hover:rotate-12 transition-transform shadow-md shadow-brand-primary/20">
+          <Baby className="text-white w-6 h-6" />
         </div>
-        <span className="text-2xl font-bold tracking-tight text-black">MoodMeal</span>
+        <div className="flex flex-col">
+          <span className="text-xl font-black tracking-tight text-slate-900 leading-none">MoodMeal App</span>
+          <span className="text-[10px] font-extrabold text-rose-500 uppercase tracking-widest leading-none mt-1">Edisi Ibu Hamil</span>
+        </div>
       </Link>
 
       {/* Desktop Menu */}

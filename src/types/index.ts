@@ -18,9 +18,20 @@ export interface ServicePackage {
 
 export type MoodType = 'Bersemangat' | 'Santai' | 'Stres' | 'Bahagia' | 'Lelah' | 'Petualang';
 
+export interface PregnancyNutrition {
+  folat?: string;
+  zatBesi?: string;
+  kalsium?: string;
+  protein?: string;
+  omega3?: string;
+  manfaatHamil: string;
+}
+
 export interface MoodRecommendation {
   mood: MoodType;
   food: string;
   description: string;
   image: string;
+  nutrisiHamil?: PregnancyNutrition;
 }
+

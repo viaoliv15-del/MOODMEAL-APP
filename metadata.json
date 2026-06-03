@@ -1,6 +1,10 @@
 {
-  "name": "MoodMeal",
-  "description": "Aplikasi rekomendasi makanan berbasis cloud yang menjodohkan suasana hati Anda dengan hidangan sempurna, menawarkan branding personal dan integrasi media sosial.",
-  "requestFramePermissions": [],
-  "majorCapabilities": []
+  "name": "MoodMeal Bumil App",
+  "description": "Aplikasi Detektor Suasana Hati & Rekomendasi Nutrisi Gizi Ibu Hamil (Pregnancy Food & Nutrient Tracker) Berbasis Kecerdasan Buatan.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
 }
